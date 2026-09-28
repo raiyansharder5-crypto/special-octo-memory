@@ -1,0 +1,14 @@
+{
+  "name": "tiktok-analytics-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TikTok analytics dashboard starter using Node.js and Express.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
